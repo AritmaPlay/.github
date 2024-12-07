@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_gambar" alt="Logo AritmaPlay" width="200">
+  <img src="https://drive.google.com/uc?id=1QgOxMP5mQ89eAKJXzU4GesDoq9iEcwCJ" alt="Logo AritmaPlay" width="200">
 </p>
 
 <h1 align="center">AritmaPlay: Digital Math Practice</h1>
@@ -8,17 +8,17 @@
   <br>Bangkit 2024 Capstone Team: C242-PS102
 </p>
 
-## 📌 **Deskripsi Proyek**
-AritmaPlay adalah aplikasi berbasis AI yang dirancang untuk membantu anak-anak belajar matematika dasar dengan cara yang interaktif dan menyenangkan. Aplikasi ini dilengkapi dengan:
-- Pengenalan Tulisan Tangan: Anak-anak menjawab soal dengan menulis angka di layar, dan AI mengenali jawabannya secara akurat.
-- Gamifikasi: Leaderboard dan sistem poin untuk meningkatkan motivasi belajar.
-- Feedback Personal: AI memberikan saran dan dorongan untuk membantu perkembangan anak.
+## 📌 **Project Description**
+AritmaPlay is an AI-based application designed to help children learn basic mathematics interactively and enjoyably. The application features:
+- Handwriting Recognition: Children answer questions by writing numbers on the screen, and AI accurately recognizes their answers.
+- Gamification: Leaderboard and point system to enhance learning motivation.
+- Personal Feedback: AI provides suggestions and encouragement to aid children's development.
 
-Aplikasi ini bertujuan membuat belajar matematika menjadi pengalaman yang menyenangkan sekaligus efektif, membantu anak-anak memahami konsep dasar matematika sambil membangun motivasi belajar.
+The application aims to make learning mathematics a fun and effective experience, helping children understand basic mathematical concepts while building their motivation to learn.
 
 ---
 
-## 👥 **Anggota Proyek**
+## 👥 **Project Members**
 
 1. **Alvin Afrinaldo A308B4KY0424** - Mobile Development
 2. **Dayana Khoiriyah Harahap A315B4KX1020** - Mobile Development
@@ -30,13 +30,13 @@ Aplikasi ini bertujuan membuat belajar matematika menjadi pengalaman yang menyen
 
 ---
 
-## 🛠 **Source yang digunakan**
+## 🛠 **Sources Used**
 
 - **Machine Learning**:
   - Google Colab
   - Vertex AI
   - Kaggle
-  - Androip App untuk membuat Dataset Tambahan
+  - Androip App for Additional Dataset Creation
   - TensorFlow
 - **Cloud Computing**:
   - Visual Studio Code
@@ -52,12 +52,12 @@ Aplikasi ini bertujuan membuat belajar matematika menjadi pengalaman yang menyen
   - JUnit
   - Espresso
   - Room
-  - DrawView
   - Programming Language: Kotlin
 ---
 
-## 🚀 **Fitur Aplikasi**
-- Quiz
-- 
+## 🚀 **App Features**
+- Math Quiz
+- Leaderboard
+- Motivational Quotes
 
 ---
