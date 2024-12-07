@@ -20,7 +20,7 @@ The application aims to make learning mathematics a fun and effective experience
 
 ## 👥 **Project Members**
 
-| No | Nama                      | Team               | GitHub          | LinkedIn               |
+| No | Nama                      | Path               | GitHub          | LinkedIn               |
 |----|---------------------------|--------------------|-----------------|------------------------|
 | 1  | Alvin Afrinaldo A308B4KY0424 | Mobile Development  | [GitHub](https://github.com/alvinkyv) | [LinkedIn](https://www.linkedin.com/in/alvinafri/) |
 | 2  | Dayana Khoiriyah Harahap A315B4KX1020 | Mobile Development  | [GitHub](https://github.com/Dayana-K-H) | [LinkedIn](https://www.linkedin.com/in/dayana-khoiriyah-harahap/) |
