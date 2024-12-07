@@ -1,13 +1,15 @@
-<h1 align="center">Aritma Play</h1>
+<p align="center">
+  <img src="URL_gambar" alt="Logo AritmaPlay" width="200">
+</p>
 
-
-Aplikasi edukasi berbasis kuis matematika untuk melatih kemampuan berhitung sambil bermain! 🌟
-
----
+<h1 align="center">AritmaPlay: Digital Math Practice</h1>
+<p align="center">
+  Empowering Minds: A holistic approach to education and personal development
+</p>
 
 ## 📌 **Deskripsi Proyek**
 
-Aritma Play adalah ...
+AritmaPlay adalah ...
 
 Fitur utama:
 
