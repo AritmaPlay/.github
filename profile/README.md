@@ -32,10 +32,28 @@ Aplikasi ini bertujuan membuat belajar matematika menjadi pengalaman yang menyen
 
 ## 🛠 **Source yang digunakan**
 
-- Machine Learning :
-- Cloud Computing :
-- Mobile Development :
-
+- **Machine Learning**:
+  - Google Colab
+  - Vertex AI
+  - Kaggle
+  - Androip App untuk membuat Dataset Tambahan
+  - TensorFlow
+- **Cloud Computing**:
+  - Visual Studio Code
+  - Google Cloud Console
+  - Laravel
+  - MySQL
+  - Postman
+- **Mobile Development**:
+  - Figma
+  - Android Studio
+  - Postman
+  - Retrofit
+  - JUnit
+  - Espresso
+  - Room
+  - DrawView
+  - Programming Language: Kotlin
 ---
 
 ## 🚀 **Fitur Aplikasi**
