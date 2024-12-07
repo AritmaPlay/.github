@@ -1,6 +1,5 @@
-<p align="center">
-  # AritmaPlay
-</p>
+<h1 align="center">Aritma Play</h1>
+
 
 Aplikasi edukasi berbasis kuis matematika untuk melatih kemampuan berhitung sambil bermain! 🌟
 
