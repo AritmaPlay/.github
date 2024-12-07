@@ -1,4 +1,6 @@
-# AritmaPlay 🎮📚
+<p align="center">
+  # AritmaPlay
+</p>
 
 Aplikasi edukasi berbasis kuis matematika untuk melatih kemampuan berhitung sambil bermain! 🌟
 
