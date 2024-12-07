@@ -59,7 +59,9 @@ The application aims to make learning mathematics a fun and effective experience
 
 ## 🚀 **App Features**
 - Math Quiz
+- Handwriting Math
 - Leaderboard
-- Motivational Quotes
+- Statistics
+- Feedback after Quiz
 
 ---
